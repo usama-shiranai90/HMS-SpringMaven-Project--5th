@@ -1,0 +1,20 @@
+
+MYSQL :
+        https://vaadin.com/components/vaadin-grid/java-examples
+        https://vaadin.com/blog/building-a-web-ui-for-mysql-databases-in-plain-java-
+        https://vaadin.com/forum/thread/8014739/8029264
+
+        https://vaadin.com/docs/v8/framework/datamodel/datamodel-providers.html
+        https://vaadin.com/docs/flow/binding-data/tutorial-flow-components-binder.html
+
+
+Spring Boot :
+             https://www.baeldung.com/spring-jdbc-jdbctemplate
+             https://www.baeldung.com/spring-jdbctemplate-testing
+             https://www.baeldung.com/spring-reflection-test-utils
+             https://www.baeldung.com/spring-testing-separate-data-source
+             https://stackoverflow.com/questions/16426323/injecting-autowired-private-field-during-testing
+
+Testing :
+        https://vaadin.com/docs/flow/embedding-flow-applications/tutorial-webcomponent-properties.html
+
